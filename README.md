@@ -15,5 +15,5 @@ It allows users to browse songs with pagination, view cover images, and play aud
 
 ## 🛠️ Tech Stack
 - **Backend:** Django (Python)  
-- **Frontend:** HTML, CSS, FontAwesome for icons  
+- **Frontend:** HTML, CSS, javascript FontAwesome for icons  
 - **Database:** SQLite (default) or any Django-supported DB  
