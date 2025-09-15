@@ -1,19 +1,22 @@
 # 🎵 Django Music Player
 
-A simple music player web application built with **Django**.  
-It allows users to browse songs with pagination, view cover images, and play audio directly from the browser.
+A feature-rich **web-based music player** built with Django.  
+It lets users play songs, manage a music library, and enjoy **real-time lyric synchronization** in a dynamic, user-friendly interface.
 
 ---
 
-## 🚀 Features
-- Display songs with **title, artist, and cover image**  
-- **Play audio** using either uploaded files or external links  
-- **Pagination support** for navigating between songs  
-- Responsive and lightweight UI  
+🚀 Key Features
+- 🎶 **Synchronized Lyrics** – Sing along with your favorite tunes in perfect harmony.  
+- 🌐 **Web-based** – Access your music player from anywhere with an internet connection.  
+- 💾 **Database Design** – Efficiently structure and manage your music library.  
+- 🔐 **User Authentication** – Securely manage user accounts and preferences.  
+- 🚀 **Real-Time Lyric Sync** – Lyrics in sync with the music for a seamless experience.  
+- 🧑‍💻 **User-Friendly Interface** – Engaging, interactive, and responsive UI.  
 
 ---
 
-## 🛠️ Tech Stack
+🛠 Tech Stack
 - **Backend:** Django (Python)  
-- **Frontend:** HTML, CSS, javascript FontAwesome for icons  
-- **Database:** SQLite (default) or any Django-supported DB  
+- **Frontend:** HTML, CSS, JavaScript, FontAwesome  
+- **Database:** SQLite / MySQL  
+- **Deployment:** Django runserver (local) or any cloud platform 
